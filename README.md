@@ -6,3 +6,5 @@
 
 This is a pretty cool and clean challenge from Frontend Mentor. It is built with a help of Bootstrap!
 Simple and minimalistic, with mobile responsive version.
+
+First page done!
